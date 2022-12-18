@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgporter24/Trippie.git"
+    "url": "git+https://github.com/JonSno29/Trippie.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jgporter24/Trippie/issues"
+    "url": "https://github.com/JonSno29/Trippie.git/issues"
   },
-  "homepage": "https://github.com/jgporter24/Trippie#readme",
+  "homepage": "https://github.com/JonSno29/Trippie.git#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-session-sequelize": "^7.1.5",
