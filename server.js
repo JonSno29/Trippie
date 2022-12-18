@@ -38,7 +38,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(routes);
 
-server.listen(port, () => {
-  console.log(`Listening on http://localhost:${port}/`);
+app.listen(PORT, () => {
+  console.log(`API server now on port ${PORT}!`);
 });
 
